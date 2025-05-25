@@ -45,7 +45,8 @@ task-master/
 ├── static/
 │   └── css/
 │       └── main.css         # Custom styles
-├── test.db                  # SQLite database (auto-created)
+├── instance/
+│   └── test.db              # SQLite database (auto-created)                
 ├── README.md                # Project documentation
 ```
 
