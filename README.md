@@ -1,6 +1,6 @@
-# 📝 Task Master - A Flask To-Do Web App
+# 📝 Task Manager - A Flask To-Do Web App
 
-**Task Master** is a simple yet powerful web-based To-Do list application built using **Flask** and **SQLite**. It lets users:
+**Task Manager** is a simple yet powerful web-based To-Do list application built using **Flask** and **SQLite**. It lets users:
 
 - Add tasks  
 - Mark tasks as completed  
@@ -36,7 +36,7 @@
 ## 📁 Project Structure
 
 ```
-task-master/
+taskmanager/
 ├── app.py                   # Main Flask application
 ├── templates/
 │   ├── base.html            # Base layout
