@@ -56,8 +56,8 @@ task-master/
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/task-master.git
-cd task-master
+git clone https://github.com/raghunath73/taskmanager
+cd taskmanager
 ```
 
 ### 2. Create a virtual environment (optional but recommended):
